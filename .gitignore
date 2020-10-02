@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.DS_Store
+\#*#
+.#*
+.coverage
+.pytest_cache
+*.swp
+*.map
+.idea/
+__pycache__

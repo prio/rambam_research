@@ -9,7 +9,7 @@ This data is available for download from [SEELab](https://see-center.iem.technio
 
 ## Notebooks
 
-All notebooks can be viewed directly on Github. The notebooks can also be executed and edited using [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/prio/research/master).
+All notebooks can be viewed directly on Github. The notebooks can also be executed and edited using [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/prio/research/main).
 
 ### [01. Process MDB](/blob/main/Rambam/notebooks/01.%20Process%20MDB.ipynb)
 
