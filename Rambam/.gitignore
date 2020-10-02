@@ -1,0 +1,19 @@
+# Dont commit raw mdb files
+data/raw/HomeHospital/database
+data/raw/HomeHospital_visits_return/visits\ return.mdb
+
+# Notebooks
+# Dont commit mirror files
+notebooks/0*.py
+
+
+.ipynb_checkpoints
+.DS_Store
+\#*#
+.#*
+.coverage
+.pytest_cache
+*.swp
+*.map
+.idea/
+__pycache__
