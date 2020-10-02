@@ -1,0 +1,30 @@
+name: notebooks
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - pandas
+  - dash
+  - matplotlib
+  - r
+  - scikit-learn
+  - seaborn
+  - statsmodels
+  - ld_impl_linux-64
+  - jupyter_contrib_nbextensions
+  - r-essentials
+  - xeus-cling
+  - gcem
+  - libiconv
+  - cython
+  - ipycanvas
+  - nodejs=10.13.0
+  - jupyter-dash
+  - pyarrow
+  - tensorflow
+  - clojupyter
+  - feedparser
+  - sqlalchemy
+  - ipython-sql
+  - jupytext
+prefix: /home/jonathan/anaconda3/envs/notebooks
