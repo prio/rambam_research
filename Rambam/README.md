@@ -15,7 +15,7 @@ All notebooks can be viewed directly on Github. The notebooks can also be execut
 
 The original SEELab files are stored in Microsoft Access format. This notebook uses an open source set of tools to export the information into a more open CSV and Sqlite formats.
 
-The Sqlite format also contains the metadata contained in the original data dictionaries to make queries and exploration easier. An example of how to query the database [sql](/../../../blob/main/Rambam/notebooks/sql.ipynb) is also provided.
+The Sqlite format also contains the metadata contained in the original data dictionaries to make queries and exploration easier. An example of how to query the [database using sql](https://github.com/prio/research/blob/main/Rambam/notebooks/sql.ipynb) is also provided.
 
 
 ### [02. Datasets for 2017](https://github.com/prio/research/blob/main/Rambam/notebooks/02.%20Datasets%20for%202017.ipynb)
